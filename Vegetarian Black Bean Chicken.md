@@ -7,6 +7,7 @@
 This is a vegetarian adaption of "Black Bean Chicken" from the book "Every Grain off Rice" by Fuchsia Dunlop. It's a simplified version of a delicious dish from the city of Liuyang in the Hunane province of China.
 
 **Time**: 30 minutes
+
 **Servings**: 3
 
 ## Ingredients
