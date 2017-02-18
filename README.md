@@ -11,22 +11,27 @@ This is a vegetarian adaption of "Black Bean Chicken" from the book "Every Grain
 
 ## Ingredients
 
-- 1 packet of soya chunks
-- 1 red or green bell pepper (or a mix of both)
-- 3 garlic cloves
-- ginger (about 3 cm)
-- 2 tbsp spring onion greens
-- 2 tbsp fermented black beans
-- 3 tbsp cooking oil
-- 1 tsp sesame oil
-- 1-2 tsp ground chillies (to taste)
+Quantity|Ingredient|
+-------:|:----------
+1 | packet of soya chunks
+1 | red or green bell pepper (or a mix of both)
+3 | garlic cloves
+3 cm (1") | ginger
+2 tbsp | spring onion greens
+2 tbsp | fermented black beans
+3 tbsp | cooking oil
+1 tsp | sesame oil
+1-2 tsp | ground chillies (to taste)
 
-For the marinade:
-- 1 tbsp Shaoxing wine (or sherry wine)
-- 1.5 tsp potato flour
-- 1 tsp light soy sauce
-- 1 tsp dark soy sauce
-- 1/4 tsp salt
+**For the marinade:**
+
+Quantity|Ingredient|
+-------:|:----------
+1 tbsp | Shaoxing wine (or sherry wine)
+1.5 tsp | potato flour
+1 tsp | light soy sauce
+1 tsp | dark soy sauce
+1/4 tsp | salt
 
 ## Preparing
 
@@ -40,17 +45,17 @@ For the marinade:
 
 ## Cooking
 
-4. Heat a wok over a high flame and add 1 tbsp of the oil.
-5. Add the peppers and stir-fry until hot and slightly cooked, but still crisp.
-6. Remove and set aside.
-7. Reheat the wok over a high flame.
-8. Add the remainder of the oil and swirl it around.
-9. Add the marinated soya chunks and stir-fry to separate the pieces.
-11. Add the garlic and ginger and stir-fry until they smell delicious.
-12. Add the black beans and stir a few times until you can smell them.
-13. Add the ground chillies and return the peppers to the wok.
-14. Continue to stir-fry until the soya chunks looks tasty and everything is sizzlingly delicious.
-16. Season with salt to taste.
-17. Stir in the spring onions.
-18. Turn off the heat and stir in the sesame oil.
-19. Serve with rice.
+1. Heat a wok over a high flame and add 1 tbsp of the oil.
+2. Add the **peppers** and stir-fry until hot and slightly cooked, but still crisp.
+3. Remove and set aside.
+4. Reheat the wok over a high flame.
+5. Add the remainder of the oil and swirl it around.
+6. Add the marinated **soya chunks** and stir-fry to separate the pieces.
+7. Add the **garlic** and **ginger** and stir-fry until they smell delicious.
+8. Add the **black beans** and stir a few times until you can smell them.
+9. Add the **ground chillies** and return the peppers to the wok.
+10. Continue to stir-fry until the soya chunks looks tasty and everything is sizzlingly delicious.
+11. Season with salt to taste.
+12. Stir in the **spring onions**.
+13. Turn off the heat and stir in the **sesame oil**.
+14. Serve with rice.
