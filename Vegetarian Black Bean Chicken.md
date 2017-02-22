@@ -22,7 +22,7 @@ Quantity|Ingredient|
 2 tbsp | fermented black beans
 3 tbsp | cooking oil
 1 tsp | sesame oil
-1-2 tsp | ground chillies (to taste)
+1-2 tsp | ground chili (to taste)
 
 **For the marinade:**
 
@@ -54,7 +54,7 @@ Quantity|Ingredient|
 6. Add the marinated **soya chunks** and stir-fry to separate the pieces.
 7. Add the **garlic** and **ginger** and stir-fry until they smell delicious.
 8. Add the **black beans** and stir a few times until you can smell them.
-9. Add the **ground chillies** and return the peppers to the wok.
+9. Add the **ground chili** and return the peppers to the wok.
 10. Continue to stir-fry until the soya chunks looks tasty and everything is sizzlingly delicious.
 11. Season with salt to taste.
 12. Stir in the **spring onions**.
