@@ -1,6 +1,6 @@
 # Vegetarian Black Bean Chicken
 
-![](images/Vegetarian Black Bean Chicken.jpg)
+![](images/Vegetarian_Black_Bean_Chicken.jpg)
 
 ## Description
 
