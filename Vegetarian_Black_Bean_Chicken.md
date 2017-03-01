@@ -1,8 +1,6 @@
-# Vegetarian Black Bean Chicken
-
 ![](images/Vegetarian_Black_Bean_Chicken.jpg)
 
-## Description
+# Vegetarian Black Bean Chicken
 
 This is a vegetarian adaption of "Black Bean Chicken" from the book "Every Grain off Rice" by Fuchsia Dunlop. It's a simplified version of a delicious dish from the city of Liuyang in the Hunane province of China.
 

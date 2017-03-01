@@ -1,8 +1,8 @@
+![](images/Spaghetti_with_Halloumi.jpg)
+
 # Spaghetti with Halloumi
 
-## Description
-
-This is a quick and easy but very tasty dish. 
+This is a quick and easy but very tasty dish.
 
 **Time**: 15 minutes
 
